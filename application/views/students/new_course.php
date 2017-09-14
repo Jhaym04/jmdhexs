@@ -7,6 +7,10 @@
 	<div class="row">
 		<div class="col-md-4">
 			<p class="lead">Menu</p>
+			<ul class="menu">
+				<li><a href="<?php echo base_url('courses/'); ?>">Students</a></li>
+				<li><a href="">Courses</a></li>
+			</ul>
 		</div>
 		<div class="col-md-8 contents">
 			<p class="lead">Add New Couse</p>
