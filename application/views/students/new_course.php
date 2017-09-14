@@ -8,7 +8,7 @@
 		<div class="col-md-4">
 			<p class="lead">Menu</p>
 			<ul class="menu">
-				<li><a href="">Students</a></li>
+				<li><a href="<?php echo base_url('courses/'); ?>">Students</a></li>
 				<li><a href="">Courses</a></li>
 			</ul>
 		</div>
